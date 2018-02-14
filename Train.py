@@ -1,18 +1,5 @@
 #  File: Train.py
-
 #  Description: use Turtle graphics to draw train
-
-#  Student Name: Ying Zhou
-
-#  Student UT EID: yz8649
-
-#  Course Name: CS 313E
-
-#  Unique Number: 51335
-
-#  Date Created: 2/7/18
-
-#  Date Last Modified: 2/13/18
 
 import math, turtle
 
